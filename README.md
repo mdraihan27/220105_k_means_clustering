@@ -7,7 +7,7 @@
 ### Cluster 3 represents secondary or transitional tones.
 ### Overall, K-Means reduced image complexity while preserving visual appearance.
 
-## Screenshots (Dummy)
+## Screenshots
 
 ### Screenshot 1: Elbow Curve
 ![Elbow Curve](screenshots/elbow_curve.png)
